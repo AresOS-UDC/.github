@@ -3,6 +3,9 @@
 AresOS
 ---------------
 
-```bash
-A project based on LineageOS (Android 14) with needed non-gore features :)
-```
+> Welcome to AresOS
+> A project based on LineageOS (Android 14) with needed non-gore features :)
+
+ ### Maybe what you need
+
+- [Manifest](https://github.com/AresOS-AOSP/manifest)
