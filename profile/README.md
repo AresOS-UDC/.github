@@ -1,5 +1,3 @@
-<img src="https://raw.github.com/AresOS-AOSP/manifest/14/aresos.jpg">
-
 AresOS
 ---------------
 
