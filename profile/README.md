@@ -1,4 +1,4 @@
-<img src="https://raw.github.com/AresOS-AOSP/manifest/14/ares.jpg">
+<img src="https://raw.github.com/AresOS-AOSP/manifest/14/aresos.jpg">
 
 AresOS
 ---------------
